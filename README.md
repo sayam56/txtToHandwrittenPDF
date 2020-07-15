@@ -20,6 +20,6 @@
 
 
 #PreCaution:
-I am NOT uploading this to a proper server with all the added functionalities because there is a huge chance of mis-using this amazing project.
+I am NOT uploading this to a proper server with all the added functionalities because there is a huge chance of misusing this amazing project.
 Please use it at your own discretion.
 
