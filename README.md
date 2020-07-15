@@ -1,2 +1,2 @@
-# txtToHandwrittenPDF
-This is a web application based on @sharanya02 Mukherjee's project that converts a text file to a handwritten pdf file. However, this small utility takes the guess work off of the project, and makes it accessible to everyone. I however haven't yet publish it on any websites.
+<h1 align="center"> Text to Handwriting Conversion Utility Through <b>PYTHON</b> Script </h1>
+<h4 align="center"> Convert text files into handwritten PDFs <h4>
