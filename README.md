@@ -19,10 +19,10 @@
 - A database to upload multiple files and download multiple files at the same time could very well be implemented.
 
 #Web Application Codes:
- -index.html  
- -index.css 
- -upload.php
- -download.php
+ - index.html  
+ - index.css 
+ - upload.php
+ - download.php
 
 #PreCaution:
 I am NOT uploading this to a proper server with all the added functionalities because there is a huge chance of misusing this amazing project.
