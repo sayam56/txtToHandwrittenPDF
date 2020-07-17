@@ -18,9 +18,14 @@
 - Custom handwriting upload IS possible.
 - A database to upload multiple files and download multiple files at the same time could very well be implemented.
 
+#Web Application Code Files:
+  - index.html
+  - index.css
+  - upload.php
+  - download.php
 
 #How To Setup:
-  - First setup your server folder (i used my localhost) and setup the necessary environments according to the <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> Instructions</a> provided here.
+  - First setup your server folder (i used my localhost) and install the necessary environmental dependencies according to the <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> Instructions</a> provided here.
   - Then copy and paste the files necessary for the web application mentioned above.
   - Run the index.html file.
  
