@@ -25,9 +25,9 @@
   - download.php
 
 #How To Setup:
-  - First setup your server folder (I used my localhost) and in that folder install the necessary environmental dependencies according to the instructions provided <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> HERE </a>. 
-  - Note that you dont need to download the files in the python repo should you choose to clone mine. JUST FOLLOW THE INSTRUCTIONS TO INSTALL THE DEPENDEENCIES.
-  - Then copy and paste the files necessary for the web application mentioned above.
+  - Clone my repo in your server folder (I used my localhost).
+  - In that folder install the necessary environmental dependencies according to the instructions provided <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> HERE </a>. (JUST THE PRE-REQUISITES) 
+  - Note that you dont need to download the files in the python repo should you choose to clone mine. JUST FOLLOW THE INSTRUCTIONS TO INSTALL THE PRE-REQUISITES.
   - Run the index.html file (in case of localhost).
  
  
