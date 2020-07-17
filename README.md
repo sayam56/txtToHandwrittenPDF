@@ -6,7 +6,7 @@
  
   </p>
   
-##Workings:
+#Workings:
   - This Utility executes the python script on the server itself.
   - The server has all the dependencies pre-installed in the proper directory according to  <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> THESE</a> instructions.
   - Users upload a .txt file into the server
@@ -14,11 +14,11 @@
   - The file is then fed into the script and the output is then generated and prepped for download.
   
   
-##Future Scope:
+#Future Scope:
 - Custom handwriting upload IS possible.
 - A database to upload multiple files and download multiple files at the same time could very well be implemented.
 
-##Web Application Codes:
+#Web Application Codes:
  - index.html  
  - index.css 
  - upload.php
